@@ -1,0 +1,19 @@
+Week one: 
+
+1. Create jupyter notebook: https://colab.research.google.com/drive/10AMODvh3fjjnKJqcbe-333vOpZBBI6qO?usp=sharing
+2. Do respective and discuss Tuesday:
+check incorrect values (typos - brklyn; inconsistent zip codes or city names)
+Data missing for certain regions
+3. Do through a meeting:
+Separate data set by year, group by restaurant.
+4. Try respectively then discuss (Thinking and preparing during Thanksgiving and discussing on Monday)
+5. Transfer to Geo(most important): Combine lon,lat, build model, 
+Check data quality again
+
+Week two: 
+
+1. Finish Geo transfer: visualize the restaurants on map at least.
+2. Start Analysis:
+Prepare different methods/models to test.
+3. Analysis and text work(construct report)
+4. Prepare presentation
