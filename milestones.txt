@@ -3,9 +3,9 @@ Week one:
 1. Create jupyter notebook: https://colab.research.google.com/drive/10AMODvh3fjjnKJqcbe-333vOpZBBI6qO?usp=sharing
 2. Do respective and discuss Tuesday:
 check incorrect values (typos - brklyn; inconsistent zip codes or city names)
-Data missing for certain regions
+Data missing for certain regions(Done by Tianying, Annan, Qiang)
 3. Do through a meeting:
-Separate data set by year, group by restaurant.
+Separate data set by year, group by restaurant. (Done by Tianying, Annan, Qiang during a meeting at Tuesday)
 4. Try respectively then discuss (Thinking and preparing during Thanksgiving and discussing on Monday)
 5. Transfer to Geo(most important): Combine lon,lat, build model, 
 Check data quality again
